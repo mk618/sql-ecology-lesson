@@ -120,7 +120,7 @@ Using a relational database serves several purposes.
 ## Database Management Systems
 
 There are different database management systems to work with relational databases
-such as SQLite, MySQL, Potsgresql, MSSQL Server, and many more. Each of them differ
+such as SQLite, MySQL, PostgreSQL, MSSQL Server, and many more. Each of them differ
 mainly based on their scalability, but they all share the same core principles of
 relational databases. In this lesson, we use SQLite to introduce you to SQL and
 data retrieval from a relational database.
@@ -129,7 +129,7 @@ data retrieval from a relational database.
 
 Let's look at a pre-existing database, the `portal_mammals.sqlite`
 file from the Portal Project dataset that we downloaded during
-[Setup](/sql-ecology-lesson/setup.html). Click on the "Open Database" button, select the portal_mammals.sqlite file, and click "Open" to open the database.
+[Setup](/sql-ecology-lesson/setup.html). Within [DB Browser for SQLite](http://sqlitebrowser.org/), click on the "Open Database" button, select the portal_mammals.sqlite file, and click "Open" to open the database.
 
 You can see the tables in the database by looking at the left hand side of the
 screen under Database Structure tab. Here you will see a list under "Tables." Each item listed here corresponds to one of the `csv` files
