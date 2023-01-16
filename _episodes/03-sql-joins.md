@@ -23,7 +23,7 @@ the `FROM` clause.
 
 
 Database tables are used to organize and group data by common characteristics or principles.  
-Often, we need to combine elements from separate tables into a single tables or queries for analysis and visualization.
+Often, we need to combine elements from separate tables into a single table or query for analysis and visualization.
 A JOIN is a means for combining columns from multiple tables by using values common to each.
 
 The JOIN keyword combined with ON is used to combine fields from separate tables.  
